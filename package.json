@@ -1,0 +1,23 @@
+{
+  "name": "sp",
+  "version": "1.0.0",
+  "description": "sp",
+  "main": "index.js",
+  "dependencies": {
+    "hexo": "^5.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sp5429/sp.git"
+  },
+  "author": "sp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sp5429/sp/issues"
+  },
+  "homepage": "https://github.com/sp5429/sp#readme"
+}
